@@ -12,3 +12,17 @@
     "totalGeneradoPorCaidos": "1358.52 DÓLARES"
   }
 }
+
+  "resumenProduccionMesPasado": {
+    "directivo": "Lorenzo Vallejo",
+    "codigoDirectivo": "N/A",
+    "totalVideos": 1020,
+    "filtroCaidos": 200,
+    "gananciaTotal": 38000.0,
+    "gananciaMenosImpuestos": 29840.0,
+    "gananciaNeta": 29000.0,
+    "costeProduccion": 20,
+    "costeTotalProduccion": "21500 SOLES",
+    "totalGeneradoPorCaidos": "1300.00 DÓLARES"
+  }
+}
